@@ -1,4 +1,3 @@
-```markdown
 # 🅿️ IoT-Based Smart Parking System with RFID Authentication
 
 A secure, automated, and real-time monitoring parking system built using Arduino, RFID, and IoT technologies.
@@ -125,4 +124,3 @@ For queries or collaboration, feel free to reach out to the team members via the
 **CSE360: Computer Interfacing**  
 **Group 06 | Section 05**  
 **September 2025**
-```
