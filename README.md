@@ -96,14 +96,6 @@ The system integrates multiple sensors and actuators powered via Arduino’s 3.3
 | Mehedi Hasan Shahed | 21301436 | Hardware design, ESP32 coding |
 | Zarin Tasnim Raisa | 21301022 | Circuit building, report writing |
 
----
-
-## 📁 Project Files
-
-- `Smart_IoT_Based_Parking_System.pdf` - Full project report
-- `Arduino_Code/` - Code for Arduino Uno
-- `ESP32_Code/` - Code for ESP32 Wi-Fi module
-- `Circuit_Diagram/` - Schematic and wiring details
 
 ---
 
